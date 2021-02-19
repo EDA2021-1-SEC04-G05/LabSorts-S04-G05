@@ -80,6 +80,9 @@ def printBestBooks(books):
     else:
         print('No se encontraron libros')
 
+def printResults(ord_books,sample=10)
+    size=lt.size(ord_books)
+
 catalog = None
 
 """
